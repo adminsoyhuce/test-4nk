@@ -1,0 +1,80 @@
+{
+    "coinbase_tags" : {
+        "/mined by miner1/" : {
+            "name": "Miner1",
+            "link" : "https://www.sosthene.net"
+        },
+        "Ankylosaure" : {
+            "name": "Ankylosaure",
+            "link" : "https://www.sosthene.net"
+        },
+        "Achillobator" : {
+            "name": "Achillobator",
+            "link" : "https://www.sosthene.net"
+        },
+        "Bambiraptor" : {
+            "name": "Bambiraptor",
+            "link" : "https://www.sosthene.net"
+        },
+        "Cristatusaurus" : {
+            "name": "Cristatusaurus",
+            "link" : "https://www.sosthene.net"
+        },
+        "Concavenator" : {
+            "name": "Concavenator",
+            "link" : "https://www.sosthene.net"
+        },
+        "Craspedodon" : {
+            "name": "Craspedodon",
+            "link" : "https://www.sosthene.net"
+        },
+        "Triceratops" : {
+            "name": "Triceratops",
+            "link" : "https://www.sosthene.net"
+        }
+    },
+    "payout_addresses" : {
+        "tb1q95hd9gkn2g03adqsch7vguk3q5al3xtuyhj8z4" : {
+            "name" : "Miner1",
+            "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Ankylosaure",
+            "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Achillobator",
+            "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Bambiraptor",
+            "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Cristatusaurus",
+            "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Concavenator",
+            "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Craspedodon",
+            "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Triceratops",
+            "link" : "https://www.sosthene.net"
+        }
+    },
+    "slugs" : {
+  "Miner1": "miner1",
+  "Ankylosaure": "ankylosaure",
+	"Achillobator": "achillobator",
+	"Bambiraptor": "bambiraptor",
+	"Cristatusaurus": "cristatusaurus",
+	"Concavenator": "concavenator",
+	"Craspedodon": "craspedodon",
+	"Triceratops": "triceratops"
+    }
+}
