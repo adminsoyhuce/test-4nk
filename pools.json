@@ -78,12 +78,12 @@
     "slugs" : {
   "Miner1": "miner1",
   "Ankylosaure": "ankylosaure",
-	"Achillobator": "achillobator",
-	"Bambiraptor": "bambiraptor",
-	"Cristatusaurus": "cristatusaurus",
-	"Concavenator": "concavenator",
-	"Craspedodon": "craspedodon",
-	"Triceratops": "triceratops",
-	"Diplodocus": "diplodocus"
+  "Achillobator": "achillobator",
+  "Bambiraptor": "bambiraptor",
+  "Cristatusaurus": "cristatusaurus",
+  "Concavenator": "concavenator",
+  "Craspedodon": "craspedodon",
+  "Triceratops": "triceratops",
+  "Diplodocus": "diplodocus"
     }
 }
