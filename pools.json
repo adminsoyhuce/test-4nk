@@ -35,6 +35,10 @@
         "Diplodocus" : {
             "name": "Diplodocus",
             "link" : "https://www.sosthene.net"
+        },
+        "Geminiraptor" : {
+            "name": "Geminiraptor",
+            "link" : "https://www.sosthene.net"
         }
     },
     "payout_addresses" : {
@@ -73,6 +77,10 @@
         "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
             "name" : "Diplodocus",
             "link" : "https://www.sosthene.net"
+        },
+        "tb1qhh536uzre6rdj7q5t3cal22khhahe9keted67d" : {
+            "name" : "Geminiraptor",
+            "link" : "https://www.sosthene.net"
         }
     },
     "slugs" : {
@@ -84,6 +92,7 @@
   "Concavenator": "concavenator",
   "Craspedodon": "craspedodon",
   "Triceratops": "triceratops",
-  "Diplodocus": "diplodocus"
+  "Diplodocus": "diplodocus",
+  "Geminiraptor": "geminiraptor"
     }
 }
